@@ -26,5 +26,22 @@ tuple3 = ('olma','banan','gilos','shaftoli','kivi')
 # for i in range(len(tuple3)):
 #     print(tuple3[i])
 
-for i in tuple3:
-    print(i)
+# for i in tuple3:
+#     print(i)
+
+
+# cars = ("Damas", 'Tiko', 'Matiz')
+# cars2 = ('CHazor', 'Song Plus', 'Yuanup')
+
+# cars3 = cars + cars2
+# cars += cars2
+# print(cars3)
+
+
+harflar = ('A', 'B', 'C', 'D', 'E')
+# a = harflar[0]
+# b = harflar[1]
+# c = harflar[2]
+
+a,*b,c = harflar
+print(a,b,c)

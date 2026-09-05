@@ -38,10 +38,19 @@ tuple3 = ('olma','banan','gilos','shaftoli','kivi')
 # print(cars3)
 
 
-harflar = ('A', 'B', 'C', 'D', 'E')
+# harflar = ('A', 'B', 'C', 'D', 'E')
 # a = harflar[0]
 # b = harflar[1]
 # c = harflar[2]
 
-a,*b,c = harflar
-print(a,b,c)
+# a,*b,c = harflar
+# print(a,b,c)
+
+
+matn = "Salom Dunyo"
+print(len(matn))
+words = ('Hi', 'Hello', 'What', 'You')
+print(len(words))
+
+nums = (2,5,4,3,7,44,23,4,234)
+print(sum(nums))

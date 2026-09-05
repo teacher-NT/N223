@@ -7,12 +7,24 @@ os.system("cls")
 # print(tuple1)
 # print(tuple1[2])
 
-tuple2 = (1,2,3,4,5,6,7,8,9)
+# tuple2 = (1,2,3,4,5,6,7,8,9)
 
-print(tuple2[4])
-print(tuple2[3:])
-print(tuple2[:3])
-print(tuple2[3:6])
-print(tuple2[2:8:2])
-print(tuple2[-2])
-print(tuple2[::-1])
+# print(tuple2[4])
+# print(tuple2[3:])
+# print(tuple2[:3])
+# print(tuple2[3:6])
+# print(tuple2[2:8:2])
+# print(tuple2[-2])
+# print(tuple2[::-1])
+
+tuple3 = ('olma','banan','gilos','shaftoli','kivi')
+# if 'Banan' in tuple3:
+#     print("Bor")
+# else:
+#     print("Yo'q")
+
+# for i in range(len(tuple3)):
+#     print(tuple3[i])
+
+for i in tuple3:
+    print(i)

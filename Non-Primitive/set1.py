@@ -54,3 +54,38 @@ myset2 = {90,80,70,60,50}
 
 
 
+set1 = {1,2,3,4,5,6}
+set2 = {4,5,6,7,8,9}
+
+set3 = set1.intersection(set2)
+print(set3)
+
+set4 = set1 & set2
+print(set4)
+
+# set1.intersection_update(set2)
+# print(set1)
+
+# set3 = set1.difference(set2)
+# print(set3)
+
+# set4 = set2.difference(set1)
+# print(set4)
+
+# set1.difference_update(set2)
+# print(set1)
+
+# set3 = set1.symmetric_difference(set2)
+# print(set3)
+
+# set1.symmetric_difference_update(set2)
+# print(set1)
+
+# sonlar1 = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
+# sonlar2 = {5,6,7,8,9}
+
+# print(sonlar1.issubset(sonlar2))
+# print(sonlar2.issubset(sonlar1))
+
+# print(sonlar1.issuperset(sonlar2))
+# print(sonlar2.issuperset(sonlar1))

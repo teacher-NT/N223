@@ -23,5 +23,27 @@ car['year'] = 2022
 # else:
 #     print("Yo'q")
 
-for i in car:
-    print(i, car[i])
+# for i in car:
+#     print(i, car[i])
+
+# =========================================
+
+salon = {
+    "GM Matiz": {
+        "price": 5000,
+        "year": [2023, 2019, 2015],
+        "colors": ['white', 'black', 'green', 'blue']
+    },
+    "GM Nexia": {
+            "price": 9000,
+            "year": 2021,
+            "colors": ['white', 'black',]
+        },
+    "GM Cobalt": {
+            "price": 13000,
+            "year": 2024,
+            "colors": ['white', 'black', 'green']
+        }
+}
+
+print(salon["GM Matiz"]['colors'][1])

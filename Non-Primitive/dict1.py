@@ -46,4 +46,46 @@ salon = {
         }
 }
 
-print(salon["GM Matiz"]['colors'][1])
+# print(salon["GM Matiz"]['colors'][1])
+# =============================================================
+
+student = {
+    "name": 'Ali',
+    "surname": "Valiev",
+    "age": 21,
+    "address": "Toshkent"
+}
+# print(student.get('name', 'Kalit topilmadi'))
+# print(student['ism'])
+
+keys = list(student.keys())
+# print(keys)
+
+values = list(student.values())
+# print(values)
+# if "Toshkent" in values:
+#     print("Bor")
+# else:
+#     print("Yo'q")
+
+# n = student.pop('surname')
+# print(student)
+# print(n)
+
+# m = student.popitem()
+# print(m)
+# print(student)
+
+# items = student.items()
+# print(items)
+# for i in student:
+#     print(i, student[i])
+# for k, v in student.items():
+#     print(k, v)
+
+# student['age'] = 30
+# student['address'] = 'Xorazm'
+# student['surname'] = 'Hasanov'
+
+student.update({"age": 30, 'address':'Xorazm', 'surname':'Hasanov'})
+print(student)

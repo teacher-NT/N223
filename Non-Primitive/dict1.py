@@ -13,7 +13,15 @@ car = {
 car['year'] = 2022
 
 # car["model"] = "M5 Compitetion"
-print(car)
-print(car['brand'])
-print(car['color'])
-print(car['model'])
+# print(car)
+# print(car['brand'])
+# print(car['color'])
+# print(car['model'])
+
+# if "model" in car:
+#     print("Bor")
+# else:
+#     print("Yo'q")
+
+for i in car:
+    print(i, car[i])

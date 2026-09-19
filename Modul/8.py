@@ -3,7 +3,7 @@ os.system("cls")
 
 import cv2
 
-camera = cv2.VideoCapture(0)
+camera = cv2.VideoCapture("https://10.125.106.155:8080/video")
 while True:
     is_valid, image = camera.read()
     if is_valid:

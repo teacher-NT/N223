@@ -79,3 +79,4 @@ while bosh_maydonlar(doska):
         print("Siz yutdingiz!")
         break
 else:
+    pass

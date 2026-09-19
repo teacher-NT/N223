@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Shaxboz",
+        "age": 15,
+        "address": "Olmaliq"
+    },
+    {
+        "name": "Azizbek",
+        "age": 18,
+        "address": "Qo'qon"
+    },
+    {
+        "name": "Zayniddin",
+        "age": 18,
+        "address": "Qashqadaryo"
+    }
+]

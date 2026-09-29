@@ -2,16 +2,22 @@ import os
 os.system("cls")
 
 class Student:
-    name = "Alisher"
-    age = 23
-    grade = 4
+    def __init__(self, n, a, g):
+        self.name = n
+        self.age = a
+        self.grade = g
+
+    def info(self):
+        print(f"Student: {self.name}, age: {self.age}, grade: {self.grade}")
 
 
-s1 = Student()
-# print(s1)
-print(s1.name)
-print(s1.age)
 
+s1 = Student('Azizbek', 22, 4)
+s1.info()
+
+
+s2 = Student('Javohir', 19, 4)
+s2.info()
 
 
 

@@ -6,10 +6,12 @@ import requests as rq
 def valyuta_info(text):
     link = "https://cbu.uz/uz/arkhiv-kursov-valyut/json/"
     data  = rq.get(link).json()
-    text = text.lower()
+    text, amout = text.lower().split()
     for i in data:
         if i['Ccy'].lower() == text or i['CcyNm_RU'].lower() == text or i['CcyNm_UZ'].lower() == text or i['CcyNm_EN'].lower() == text:
+            qiymat = int(amout) * float(i['Rate'])
             javob = f"1 {i['CcyNm_UZ']} hozirda {i['Rate']} so'mga teng."
+            javob += f"\n{amout} {i['CcyNm_UZ']} {qiymat} so'mga teng bo'ladi."
             return javob
     return "Valyuta topilmadi"
 
@@ -29,7 +31,7 @@ async def func(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 
 
-token = ""
+token = "8827661928:AAE10hpJuAibxmpliZyawRx-HbCzLWVu7V0"
 app = ApplicationBuilder().token(token).build()
 
 app.add_handler(CommandHandler("hello", hello))

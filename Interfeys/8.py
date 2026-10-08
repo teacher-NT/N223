@@ -3,7 +3,7 @@ os.system("cls")
 
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout,
-    QComboBox, QCheckBox
+    QComboBox, QCheckBox, QRadioButton, QMessageBox
 )
 
 app = QApplication([])
@@ -18,6 +18,11 @@ style_combo = """
 style_checkbox = """
     font-size: 22px;
     font-weight: bold;
+"""
+
+style_radio = """
+    font-size: 20px;
+    color: blue;
 """
 
 class Window(QWidget):
@@ -53,13 +58,15 @@ class Window(QWidget):
 
         self.add_combo()
         self.add_checkbox()
+        self.add_radio()
 
-        self.btn1 = QPushButton("Tugmacha 1")
+        self.btn1 = QPushButton("Buyurtma berish")
         self.btn1.setStyleSheet("""
             font-size: 20px;
             background-color: lightgreen;
             border: 2px solid black;
         """)
+        self.btn1.clicked.connect(self.buyurtma_berish)
         self.vbox.addWidget(self.btn1)
 
         self.setLayout(self.vbox)
@@ -119,7 +126,21 @@ class Window(QWidget):
         drinks = "\n- ".join(drinks)
         self.matn3.setText(f"Tanlangan ichimliklar: \n- {drinks}")
 
+    def add_radio(self):
+        self.r1 = QRadioButton("Naqd")
+        self.r1.setStyleSheet(style_radio)
+        self.vbox.addWidget(self.r1)
 
+        self.r2 = QRadioButton("Terminal")
+        self.r2.setStyleSheet(style_radio)
+        self.vbox.addWidget(self.r2)
+
+        self.r3 = QRadioButton("Onlayn")
+        self.r3.setStyleSheet(style_radio)
+        self.vbox.addWidget(self.r3)
+
+    def buyurtma_berish(self):
+        QMessageBox.question(self, "Xabar", "Buyurtmangizni tasdiqlaysizmi!")
 
 win = Window()
 app.exec_()

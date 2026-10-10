@@ -1,0 +1,602 @@
+[
+  {
+    "nomi": "Tennis raketkasi",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 933000,
+    "ishlab-chiqarilgan vaqti": "2026-05-01"
+  },
+  {
+    "nomi": "Alkimyogar",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 138000,
+    "ishlab-chiqarilgan vaqti": "2026-01-06"
+  },
+  {
+    "nomi": "Yozuv stoli",
+    "kategoriyasi": "Mebel",
+    "narxi": 2878000,
+    "ishlab-chiqarilgan vaqti": "2025-09-02"
+  },
+  {
+    "nomi": "Redmond multivarka",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 3260000,
+    "ishlab-chiqarilgan vaqti": "2024-09-27"
+  },
+  {
+    "nomi": "Red Bull 250 ml",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 27000,
+    "ishlab-chiqarilgan vaqti": "2025-09-15"
+  },
+  {
+    "nomi": "Soch quritgich",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 816000,
+    "ishlab-chiqarilgan vaqti": "2026-01-17"
+  },
+  {
+    "nomi": "Sut (Lactel) 1 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 30000,
+    "ishlab-chiqarilgan vaqti": "2024-06-16"
+  },
+  {
+    "nomi": "Fanta 1 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 27000,
+    "ishlab-chiqarilgan vaqti": "2025-01-08"
+  },
+  {
+    "nomi": "Artel muzlatkich",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 5018000,
+    "ishlab-chiqarilgan vaqti": "2024-08-13"
+  },
+  {
+    "nomi": "Nike krossovka",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 767000,
+    "ishlab-chiqarilgan vaqti": "2026-07-25"
+  },
+  {
+    "nomi": "Midea mikroto'lqinli pech",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 6359000,
+    "ishlab-chiqarilgan vaqti": "2024-12-14"
+  },
+  {
+    "nomi": "Futbolka (paxta)",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 2028000,
+    "ishlab-chiqarilgan vaqti": "2025-02-14"
+  },
+  {
+    "nomi": "Ayollar tufli",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 961000,
+    "ishlab-chiqarilgan vaqti": "2024-04-03"
+  },
+  {
+    "nomi": "Stul (yog'och)",
+    "kategoriyasi": "Mebel",
+    "narxi": 4867000,
+    "ishlab-chiqarilgan vaqti": "2025-07-03"
+  },
+  {
+    "nomi": "Moulinex blender",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 1096000,
+    "ishlab-chiqarilgan vaqti": "2026-05-17"
+  },
+  {
+    "nomi": "Sport kostyumi",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 634000,
+    "ishlab-chiqarilgan vaqti": "2024-02-02"
+  },
+  {
+    "nomi": "Shakar 1 kg",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 16000,
+    "ishlab-chiqarilgan vaqti": "2024-10-27"
+  },
+  {
+    "nomi": "Nestle suv 5 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 10000,
+    "ishlab-chiqarilgan vaqti": "2024-12-29"
+  },
+  {
+    "nomi": "Artel changyutgich",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 6890000,
+    "ishlab-chiqarilgan vaqti": "2024-06-12"
+  },
+  {
+    "nomi": "Samsung 43 dyuymli televizor",
+    "kategoriyasi": "Elektronika",
+    "narxi": 10690000,
+    "ishlab-chiqarilgan vaqti": "2024-02-02"
+  },
+  {
+    "nomi": "Basketbol to'pi",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 2386000,
+    "ishlab-chiqarilgan vaqti": "2026-08-02"
+  },
+  {
+    "nomi": "Turnik (eshikka)",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 251000,
+    "ishlab-chiqarilgan vaqti": "2025-05-12"
+  },
+  {
+    "nomi": "Yuz niqobi to'plami",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 478000,
+    "ishlab-chiqarilgan vaqti": "2025-11-18"
+  },
+  {
+    "nomi": "Parfyum (Chanel)",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 1447000,
+    "ishlab-chiqarilgan vaqti": "2026-08-09"
+  },
+  {
+    "nomi": "Guruch (Lazer) 5 kg",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 122000,
+    "ishlab-chiqarilgan vaqti": "2026-01-17"
+  },
+  {
+    "nomi": "iPhone 13 smartfoni",
+    "kategoriyasi": "Elektronika",
+    "narxi": 13387000,
+    "ishlab-chiqarilgan vaqti": "2024-09-07"
+  },
+  {
+    "nomi": "Erkaklar kostyumi",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 2201000,
+    "ishlab-chiqarilgan vaqti": "2024-11-18"
+  },
+  {
+    "nomi": "Sariq devni minib",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 98000,
+    "ishlab-chiqarilgan vaqti": "2026-09-03"
+  },
+  {
+    "nomi": "Erkaklar ko'ylagi",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 2475000,
+    "ishlab-chiqarilgan vaqti": "2025-10-17"
+  },
+  {
+    "nomi": "Meva sharbati (Sok) 1 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 27000,
+    "ishlab-chiqarilgan vaqti": "2025-06-30"
+  },
+  {
+    "nomi": "Tish pastasi (Colgate)",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 1039000,
+    "ishlab-chiqarilgan vaqti": "2025-12-31"
+  },
+  {
+    "nomi": "Kefir 1 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 21000,
+    "ishlab-chiqarilgan vaqti": "2024-10-03"
+  },
+  {
+    "nomi": "Dunyoning ishlari",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 124000,
+    "ishlab-chiqarilgan vaqti": "2026-05-11"
+  },
+  {
+    "nomi": "Oshxona stoli",
+    "kategoriyasi": "Mebel",
+    "narxi": 6974000,
+    "ishlab-chiqarilgan vaqti": "2025-06-25"
+  },
+  {
+    "nomi": "Qishki botinka",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 823000,
+    "ishlab-chiqarilgan vaqti": "2025-08-20"
+  },
+  {
+    "nomi": "Bosch idish yuvish mashinasi",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 1144000,
+    "ishlab-chiqarilgan vaqti": "2025-01-24"
+  },
+  {
+    "nomi": "Samsung kir yuvish mashinasi",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 4181000,
+    "ishlab-chiqarilgan vaqti": "2024-10-11"
+  },
+  {
+    "nomi": "Pomada (Avon)",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 1311000,
+    "ishlab-chiqarilgan vaqti": "2025-03-09"
+  },
+  {
+    "nomi": "Python dasturlash asoslari",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 126000,
+    "ishlab-chiqarilgan vaqti": "2025-09-15"
+  },
+  {
+    "nomi": "Velosiped (tog')",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 88000,
+    "ishlab-chiqarilgan vaqti": "2026-08-09"
+  },
+  {
+    "nomi": "Hot Dog Cola 1 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 12000,
+    "ishlab-chiqarilgan vaqti": "2024-09-30"
+  },
+  {
+    "nomi": "Atom odatlar",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 70000,
+    "ishlab-chiqarilgan vaqti": "2025-05-27"
+  },
+  {
+    "nomi": "LG konditsioner",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 7333000,
+    "ishlab-chiqarilgan vaqti": "2024-01-07"
+  },
+  {
+    "nomi": "Maybelline lab bo'yog'i",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 260000,
+    "ishlab-chiqarilgan vaqti": "2025-06-24"
+  },
+  {
+    "nomi": "Issiq sviter",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 595000,
+    "ishlab-chiqarilgan vaqti": "2025-05-26"
+  },
+  {
+    "nomi": "Un (oliy nav) 10 kg",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 72000,
+    "ishlab-chiqarilgan vaqti": "2024-05-07"
+  },
+  {
+    "nomi": "Bolalar krossovkasi",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 539000,
+    "ishlab-chiqarilgan vaqti": "2025-08-21"
+  },
+  {
+    "nomi": "Makaron (Bek) 400 g",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 133000,
+    "ishlab-chiqarilgan vaqti": "2025-01-05"
+  },
+  {
+    "nomi": "Ayollar etigi",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 1364000,
+    "ishlab-chiqarilgan vaqti": "2025-07-05"
+  },
+  {
+    "nomi": "Ikki kishilik karavot",
+    "kategoriyasi": "Mebel",
+    "narxi": 1372000,
+    "ishlab-chiqarilgan vaqti": "2025-11-27"
+  },
+  {
+    "nomi": "Adidas krossovka",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 1189000,
+    "ishlab-chiqarilgan vaqti": "2024-05-26"
+  },
+  {
+    "nomi": "Ayollar ko'ylagi",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 1745000,
+    "ishlab-chiqarilgan vaqti": "2024-08-12"
+  },
+  {
+    "nomi": "Nivea krem",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 1227000,
+    "ishlab-chiqarilgan vaqti": "2026-09-28"
+  },
+  {
+    "nomi": "Lenovo IdeaPad noutbuki",
+    "kategoriyasi": "Elektronika",
+    "narxi": 1980000,
+    "ishlab-chiqarilgan vaqti": "2026-01-28"
+  },
+  {
+    "nomi": "Ayollar palto",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 728000,
+    "ishlab-chiqarilgan vaqti": "2024-08-04"
+  },
+  {
+    "nomi": "Ingliz tili grammatikasi",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 60000,
+    "ishlab-chiqarilgan vaqti": "2025-01-17"
+  },
+  {
+    "nomi": "Asal 1 kg",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 89000,
+    "ishlab-chiqarilgan vaqti": "2025-12-22"
+  },
+  {
+    "nomi": "Rezina etik",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 1382000,
+    "ishlab-chiqarilgan vaqti": "2026-05-31"
+  },
+  {
+    "nomi": "Kungaboqar yog'i 5 litr",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 146000,
+    "ishlab-chiqarilgan vaqti": "2025-01-22"
+  },
+  {
+    "nomi": "Sakrash arqoni",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 182000,
+    "ishlab-chiqarilgan vaqti": "2026-06-18"
+  },
+  {
+    "nomi": "Shaytanat",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 167000,
+    "ishlab-chiqarilgan vaqti": "2026-06-10"
+  },
+  {
+    "nomi": "Mehrobdan chayon",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 74000,
+    "ishlab-chiqarilgan vaqti": "2024-06-10"
+  },
+  {
+    "nomi": "LG 55 dyuymli televizor",
+    "kategoriyasi": "Elektronika",
+    "narxi": 682000,
+    "ishlab-chiqarilgan vaqti": "2024-08-11"
+  },
+  {
+    "nomi": "Choy (Ahmad) 100 dona",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 125000,
+    "ishlab-chiqarilgan vaqti": "2025-09-25"
+  },
+  {
+    "nomi": "Erkaklar charm tufli",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 543000,
+    "ishlab-chiqarilgan vaqti": "2024-09-09"
+  },
+  {
+    "nomi": "Televizor tumbasi",
+    "kategoriyasi": "Mebel",
+    "narxi": 4858000,
+    "ishlab-chiqarilgan vaqti": "2024-04-27"
+  },
+  {
+    "nomi": "Dove sovun",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 721000,
+    "ishlab-chiqarilgan vaqti": "2025-07-16"
+  },
+  {
+    "nomi": "Yumshoq divan",
+    "kategoriyasi": "Mebel",
+    "narxi": 1035000,
+    "ishlab-chiqarilgan vaqti": "2025-10-04"
+  },
+  {
+    "nomi": "Philips dazmol",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 8626000,
+    "ishlab-chiqarilgan vaqti": "2024-12-10"
+  },
+  {
+    "nomi": "Poyabzal javoni",
+    "kategoriyasi": "Mebel",
+    "narxi": 5331000,
+    "ishlab-chiqarilgan vaqti": "2026-02-26"
+  },
+  {
+    "nomi": "Quritilgan o'rik 500 g",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 15000,
+    "ishlab-chiqarilgan vaqti": "2025-11-08"
+  },
+  {
+    "nomi": "Kiyim shkafi",
+    "kategoriyasi": "Mebel",
+    "narxi": 3128000,
+    "ishlab-chiqarilgan vaqti": "2024-03-06"
+  },
+  {
+    "nomi": "Lipton muzli choy",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 29000,
+    "ishlab-chiqarilgan vaqti": "2025-11-30"
+  },
+  {
+    "nomi": "Coca-Cola 1.5 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 12000,
+    "ishlab-chiqarilgan vaqti": "2024-04-13"
+  },
+  {
+    "nomi": "Ofis kreslosi",
+    "kategoriyasi": "Mebel",
+    "narxi": 1984000,
+    "ishlab-chiqarilgan vaqti": "2025-07-20"
+  },
+  {
+    "nomi": "Gantel to'plami 20 kg",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 1345000,
+    "ishlab-chiqarilgan vaqti": "2024-01-01"
+  },
+  {
+    "nomi": "Jinsi shim",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 1737000,
+    "ishlab-chiqarilgan vaqti": "2026-05-13"
+  },
+  {
+    "nomi": "HP Pavilion noutbuki",
+    "kategoriyasi": "Elektronika",
+    "narxi": 16075000,
+    "ishlab-chiqarilgan vaqti": "2024-03-30"
+  },
+  {
+    "nomi": "Garnier shampun",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 1144000,
+    "ishlab-chiqarilgan vaqti": "2026-02-23"
+  },
+  {
+    "nomi": "Boks qo'lqopi",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 2025000,
+    "ishlab-chiqarilgan vaqti": "2024-09-02"
+  },
+  {
+    "nomi": "Sony simsiz quloqchin",
+    "kategoriyasi": "Elektronika",
+    "narxi": 4303000,
+    "ishlab-chiqarilgan vaqti": "2025-09-08"
+  },
+  {
+    "nomi": "Futbol to'pi",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 1916000,
+    "ishlab-chiqarilgan vaqti": "2025-07-06"
+  },
+  {
+    "nomi": "Apple Watch SE soati",
+    "kategoriyasi": "Elektronika",
+    "narxi": 12931000,
+    "ishlab-chiqarilgan vaqti": "2025-12-19"
+  },
+  {
+    "nomi": "Samsung Galaxy A54 smartfoni",
+    "kategoriyasi": "Elektronika",
+    "narxi": 11564000,
+    "ishlab-chiqarilgan vaqti": "2024-01-26"
+  },
+  {
+    "nomi": "Loreal tush",
+    "kategoriyasi": "Kosmetika",
+    "narxi": 202000,
+    "ishlab-chiqarilgan vaqti": "2025-11-06"
+  },
+  {
+    "nomi": "Suzish ko'zoynagi",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 1436000,
+    "ishlab-chiqarilgan vaqti": "2024-03-21"
+  },
+  {
+    "nomi": "Tuz 1 kg",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 148000,
+    "ishlab-chiqarilgan vaqti": "2026-05-25"
+  },
+  {
+    "nomi": "O'tkan kunlar (roman)",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 126000,
+    "ishlab-chiqarilgan vaqti": "2024-04-24"
+  },
+  {
+    "nomi": "Ikki eshik orasi",
+    "kategoriyasi": "Kitoblar",
+    "narxi": 144000,
+    "ishlab-chiqarilgan vaqti": "2025-06-03"
+  },
+  {
+    "nomi": "Xiaomi Redmi Note 12",
+    "kategoriyasi": "Elektronika",
+    "narxi": 4134000,
+    "ishlab-chiqarilgan vaqti": "2026-01-24"
+  },
+  {
+    "nomi": "Qishki kurtka",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 1939000,
+    "ishlab-chiqarilgan vaqti": "2024-02-27"
+  },
+  {
+    "nomi": "JBL Bluetooth karnay",
+    "kategoriyasi": "Elektronika",
+    "narxi": 624000,
+    "ishlab-chiqarilgan vaqti": "2024-07-22"
+  },
+  {
+    "nomi": "Yong'oq 1 kg",
+    "kategoriyasi": "Oziq-ovqat",
+    "narxi": 38000,
+    "ishlab-chiqarilgan vaqti": "2024-10-23"
+  },
+  {
+    "nomi": "Pepsi 1.5 litr",
+    "kategoriyasi": "Ichimliklar",
+    "narxi": 18000,
+    "ishlab-chiqarilgan vaqti": "2025-04-09"
+  },
+  {
+    "nomi": "Tefal elektr choynak",
+    "kategoriyasi": "Maishiy texnika",
+    "narxi": 2681000,
+    "ishlab-chiqarilgan vaqti": "2024-08-08"
+  },
+  {
+    "nomi": "Sport poyabzali",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 1795000,
+    "ishlab-chiqarilgan vaqti": "2024-05-21"
+  },
+  {
+    "nomi": "Kitob javoni",
+    "kategoriyasi": "Mebel",
+    "narxi": 6067000,
+    "ishlab-chiqarilgan vaqti": "2024-01-12"
+  },
+  {
+    "nomi": "Yozgi shippak",
+    "kategoriyasi": "Poyabzal",
+    "narxi": 773000,
+    "ishlab-chiqarilgan vaqti": "2024-08-12"
+  },
+  {
+    "nomi": "Bolalar kombinezoni",
+    "kategoriyasi": "Kiyim-kechak",
+    "narxi": 2290000,
+    "ishlab-chiqarilgan vaqti": "2025-08-03"
+  },
+  {
+    "nomi": "Yoga gilami",
+    "kategoriyasi": "Sport buyumlari",
+    "narxi": 1513000,
+    "ishlab-chiqarilgan vaqti": "2025-05-15"
+  }
+]

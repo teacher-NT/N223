@@ -32,11 +32,24 @@ cursor = mydb.cursor()
 #     print(i)
 
 
-QUERY = """INSERT INTO students(name, lastname, birthdate, faculty, grade, stipendiya)
-    VALUES
-    ('Azizbek', 'Muhammadjonov', '2008-07-21', 'Data Science', 1, 610000);
-"""
-cursor.execute(QUERY)
-mydb.commit()
+# QUERY = """INSERT INTO students(name, lastname, birthdate, faculty, grade, stipendiya)
+#     VALUES
+#     ('Azizbek', 'Muhammadjonov', '2008-07-21', 'Data Science', 1, 610000);
+# """
+# cursor.execute(QUERY)
+# mydb.commit()
+# print(f"{cursor.rowcount} ta qator")
 
+ism = input("Ism: ")
+fam = input("Familya: ")
+ts = input("Tug'ilgan sana: ")
+fak = input("Fakultet: ")
+gra = int(input("Bosqich: "))
+stip = float(input("Stipendiya: "))
+QUERY2 = """INSERT INTO students(name, lastname, birthdate, faculty, grade, stipendiya)
+    VALUES
+    (%s, %s, %s, %s, %s, %s);
+"""
+cursor.execute(QUERY2, (ism,fam, ts,fak,gra,stip))
+mydb.commit()
 print(f"{cursor.rowcount} ta qator")

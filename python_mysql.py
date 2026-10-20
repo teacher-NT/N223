@@ -1,0 +1,33 @@
+import os
+os.system("cls")
+
+from mysql import connector
+
+mydb = connector.connect(
+    host="localhost",
+    user="root",
+    password="1234",
+    database='dars_db'
+)
+# print(mydb)
+# print("Serverga ulandi...")
+
+cursor = mydb.cursor()
+
+# cursor.execute("SHOW DATABASES;")
+# for i in cursor:
+#     print(i)
+
+cursor.execute("SELECT * FROM students;")
+
+# jadval = cursor.fetchall()
+# for i in jadval:
+#     print(i)
+
+# qator = cursor.fetchone()
+# print(qator)
+
+qatorlar = cursor.fetchmany(3)
+for i in qatorlar:
+    print(i)
+

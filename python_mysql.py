@@ -40,16 +40,33 @@ cursor = mydb.cursor()
 # mydb.commit()
 # print(f"{cursor.rowcount} ta qator")
 
-ism = input("Ism: ")
-fam = input("Familya: ")
-ts = input("Tug'ilgan sana: ")
-fak = input("Fakultet: ")
-gra = int(input("Bosqich: "))
-stip = float(input("Stipendiya: "))
-QUERY2 = """INSERT INTO students(name, lastname, birthdate, faculty, grade, stipendiya)
-    VALUES
-    (%s, %s, %s, %s, %s, %s);
-"""
-cursor.execute(QUERY2, (ism,fam, ts,fak,gra,stip))
+# ism = input("Ism: ")
+# fam = input("Familya: ")
+# ts = input("Tug'ilgan sana: ")
+# fak = input("Fakultet: ")
+# gra = int(input("Bosqich: "))
+# stip = float(input("Stipendiya: "))
+# QUERY2 = """INSERT INTO students(name, lastname, birthdate, faculty, grade, stipendiya)
+#     VALUES
+#     (%s, %s, %s, %s, %s, %s);
+# """
+# cursor.execute(QUERY2, (ism,fam, ts,fak,gra,stip))
+# mydb.commit()
+# print(f"{cursor.rowcount} ta qator")
+
+
+# cursor.execute("""
+#     update students
+#         set stipendiya = stipendiya * 1.3
+#     where id = 5;
+# """)
+# mydb.commit()
+# print(f"{cursor.rowcount} ta qator")
+
+
+cursor.execute("""
+    delete from students
+    where id = 7;
+""")
 mydb.commit()
 print(f"{cursor.rowcount} ta qator")

@@ -18,7 +18,7 @@ cursor = mydb.cursor()
 # for i in cursor:
 #     print(i)
 
-cursor.execute("SELECT * FROM students;")
+# cursor.execute("SELECT * FROM students;")
 
 # jadval = cursor.fetchall()
 # for i in jadval:
@@ -27,7 +27,16 @@ cursor.execute("SELECT * FROM students;")
 # qator = cursor.fetchone()
 # print(qator)
 
-qatorlar = cursor.fetchmany(3)
-for i in qatorlar:
-    print(i)
+# qatorlar = cursor.fetchmany(3)
+# for i in qatorlar:
+#     print(i)
 
+
+QUERY = """INSERT INTO students(name, lastname, birthdate, faculty, grade, stipendiya)
+    VALUES
+    ('Azizbek', 'Muhammadjonov', '2008-07-21', 'Data Science', 1, 610000);
+"""
+cursor.execute(QUERY)
+mydb.commit()
+
+print(f"{cursor.rowcount} ta qator")
